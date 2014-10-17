@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gag:home|Door43 (gag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gag|d43-gag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gag/archive/master.zip|d43-gag.zip]]
+
+**Recent Changes**
+{{changes>ns = gag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gag|Ethnologue data]]
+
